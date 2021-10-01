@@ -19,7 +19,7 @@
 set -e
 
 # Initial copyright year
-export INITIAL_COPYRIGHT_YEAR=2020
+export INITIAL_COPYRIGHT_YEAR=2021
 
 # Required!
 DEVICE=ugglite
