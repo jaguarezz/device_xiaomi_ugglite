@@ -78,6 +78,13 @@ PRODUCT_PROPERTY_OVERRIDES += \
     dalvik.vm.heapminfree=512k \
     dalvik.vm.heapmaxfree=8m
 
+# Roarr
+PRODUCT_PROPERTY_OVERRIDES += \
+    persist.sys.scrollingcache=4
+    debug.performance.tuning=1
+    video.accelerate.hw=1
+    ro.min_pointer_dur=1
+
 # Display
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.opengles.version=196608 \
