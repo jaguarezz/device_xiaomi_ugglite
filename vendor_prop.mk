@@ -82,7 +82,6 @@ PRODUCT_PROPERTY_OVERRIDES += \
 PRODUCT_PROPERTY_OVERRIDES += \
     persist.sys.scrollingcache=4
     debug.performance.tuning=1
-    video.accelerate.hw=1
     ro.min_pointer_dur=1
 
 # Display
